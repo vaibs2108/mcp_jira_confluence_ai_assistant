@@ -1,9 +1,3 @@
-metadata
-title: JIRA & Confluence AI Assistant
-sdk: mcp, openai & streamlit
-app_file: mcp_client.py
-
-
 JIRA & Confluence AI Assistant
 Welcome to AI Assistant for jira & Confluence using MCP! This project leverages AI to automate and enhance the process of ticket creation in Jira, getting project status update from Jira and creating & updating the same in Confluence page. It will Model Context Protocol 2.0. Orcrestration is done by OpenAI LLM 
 
@@ -39,4 +33,10 @@ Run the app:
 uv run mcp_server_jira.py # start the jira server
 uv run mcp_server_confluence.py #start the confluence server
 streamlit run mcp_client.py   # run the client
+
+
+metadata
+title: JIRA & Confluence AI Assistant
+sdk: mcp, openai & streamlit
+app_file: mcp_client.py
 
