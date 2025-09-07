@@ -1,0 +1,11 @@
+mcp[cli]
+streamlit
+python-dotenv
+asyncio
+mcp
+jira
+pandas
+psutil 
+openai
+fastmcp
+atlassian-python-api
